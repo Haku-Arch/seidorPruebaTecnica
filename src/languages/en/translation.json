@@ -1,0 +1,12 @@
+{
+    "Header": "My Data", 
+    "Description": "Please enter your personal data and press continue",
+    "Name": "Name", "LastName": "Last Name",
+    "Continue": "Continue", "Back": "Back", "Pay": "Pay",
+    "Payment" : "Payment", "PaymentDescription": "After making the payment you will receive a confirmation email with details of your purchase",
+    "CreditCard": "CreditCard", "CreditCardDescription": "You will be redirected to a secure payment platform. This is a secure process. The validation of your payment can take up to24 hours.",
+    "Footer": "My company",
+    "Categories": "Categories", "Brands": "Brands", "About": "About Us", "Help": "HELP", "Sign": "SIGN IN", "Languages": "Languages",
+    "Action": "Action", "Comedy": "Comedy", "Drama": "Drama", "Walt": "Walt Disney Studios", "Universal": "Universal Pictures", "Columbia": "Columbia Pictures",
+    "Error": "Name and Lastname are required inputs"
+  }

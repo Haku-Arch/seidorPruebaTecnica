@@ -1,0 +1,11 @@
+{
+    "Header": "Mis Datos", "Description": "Por favor introduzca sus datos personales y presione continuar",
+    "Name": "Nombre", "LastName": "Apellido",
+    "Continue": "Continuar", "Back": "Atrás", "Pay": "Pagar",
+    "Payment" : "Pago", "PaymentDescription": "Luego de realizar el pago recibirás un correo de confirmación con los detalles de tu compra",
+    "CreditCard": "Tarjeta de Credito", "CreditCardDescription": "Será redirigido a una plataforma de pago segura. Este es un proceso seguro. La validación de tu pago puede demorar hasta 24 horas.",
+    "Footer": "Mi compañia",
+    "Categories": "Categorias", "Brands": "Marcas", "About": "Acerca de nosotros", "Help": "Ayuda", "Sign": "Registrarse", "Languages": "Idiomas",
+    "Action": "Acción", "Comedy": "Comedia", "Drama": "Drama", "Walt": "Estudios Walt Disney", "Universal": "Estudios Universal", "Columbia": "Estudios Columbia",
+    "Error": "Nombre y Apellido son campos obligatorios"
+  }
